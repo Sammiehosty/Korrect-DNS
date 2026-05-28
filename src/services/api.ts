@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const BACKEND_URL = 'https://cf.sammiehosty.com/api';
+const BACKEND_URL = 'https://kh.sammiehosty.com/api';
 
 export interface User {
   id: number;
